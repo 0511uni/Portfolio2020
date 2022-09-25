@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Enemy
+  - Dor
+  - Timer
+  - Goal
+  - Wall
+  - Enemy3
+  - Wall2
+  - Enemy2
+  - Item10
+  - Ground
+  - notax
+  - tax
+  - PanelWall2
+  - PanelWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Warp2
+  - Warp1
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2443567057
+    locked: 0
+  - name: 2
+    uniqueID: 929791065
+    locked: 0
